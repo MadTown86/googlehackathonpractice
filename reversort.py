@@ -23,6 +23,7 @@ def reversort2(L):
 
 
 print(reversort2([4, 2, 1, 3]))
+print(reversort2([5, 2, 7, 6, 3, 8, 9]))
 
 
 
